@@ -1,14 +1,16 @@
-# McDonald's Website – Web QA Project
+# Google Keep – Mobile QA Project
 
 ## 📌 Project Overview
-This project involved manual QA testing of the McDonald’s website, with an emphasis on overall quality assurance, usability, and defect detection without a formal requirements specification.
+Manual QA testing project for the Google Keep mobile application.  
+The project focused on ensuring quality, stability, and usability across core application features.
 
 ## 🧪 Testing Scope
 - Functional testing
 - Regression testing
 - Exploratory testing
-- Ad-hoc testing
-- UI and usability testing
+- End-to-end (E2E) testing
+- UI testing
+- Version comparison and impact analysis
 
 ## 📄 Test Documentation
 - **STP** – Software Test Plan  
@@ -17,13 +19,17 @@ This project involved manual QA testing of the McDonald’s website, with an emp
 
 
 ## 🛠 Tools & Technologies
-- Test and defect management using **Zoho Bug Tracker**  
+- Test management: **Qase**  
 - Manual test execution
-- Bug tracking and test management: [Access Zoho Bug Tracker](https://bugtracker.zoho.com/portal/otmannosiba100gmaildotcom#zp/projects/2596412000000063571/issues/custom-view/2596412000000063310/list) (view-only/demo)
+- Bug tracking and retesting after fixes
+- [Access Qase Test Report](https://app.qase.io/public/report/55ce848258410d43239012278382f4a24d1c8430) (view-only/demo)
 
-## 🌐 Test Environment
-- Web-based application
-- Cross-browser testing
+## 📱 Test Environment
+- Mobile application
+- Android devices (conceptually adaptable to iOS)
+
+## 📸 Screenshots
+Relevant screenshots and test evidence are included where applicable.
 
 ## 👩‍💻 Role
-QA Engineer – Manual Web Testing
+QA Engineer – Mobile Manual Testing
